@@ -1,3 +1,3 @@
 # easyparking
  
-Documentación de Easyärking para que todos lo tengan en cuenta
+Documentación de Easyparking para que todos lo tengan en cuenta
